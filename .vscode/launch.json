@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/TodoEstructura",
+            "url": "http://localhost/ProjectTodoEstructura/TodoEstructutaWenPage/",
             "webRoot": "${workspaceFolder}"
         }
     ]
